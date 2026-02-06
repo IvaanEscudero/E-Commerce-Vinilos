@@ -1,0 +1,21 @@
+button{
+    background-color: black !important;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  #cerrarcoso{
+    color: white !important; 
+  }
+  th {
+    background-color: #f2f2f2;
+  }

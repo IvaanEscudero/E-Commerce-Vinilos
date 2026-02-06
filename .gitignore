@@ -1,0 +1,15 @@
+target/
+*.war
+*.ear
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+nb-configuration.xml
+*.log
+logs/
+.DS_Store
+Thumbs.db
