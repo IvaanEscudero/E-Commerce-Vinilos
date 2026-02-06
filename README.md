@@ -1,6 +1,6 @@
 # E-Commerce de Vinilos
 
-## 📝 Descripción
+## Descripción
 Plataforma web de comercio electrónico dedicada a la venta de discos de vinilo y CDs. La aplicación permite a los usuarios navegar por un catálogo musical, gestionar un carrito de compras, realizar pedidos y contactar con los administradores.
 
 <p align="center">
